@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main 
- * Return: 0 on success.
+ * main - print _putchar
+ * written by mahdi stati.
  */
 
 int main(void)
@@ -15,6 +15,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	return(0);
+	return (0);
 }
 
