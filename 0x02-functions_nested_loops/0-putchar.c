@@ -2,7 +2,7 @@
 /**
  * main - print _putchar
  * written by mahdi stati.
- * return: 0
+ * Return: 0 on success.
  */
 
 int main(void)
