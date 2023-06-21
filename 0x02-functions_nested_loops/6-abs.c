@@ -5,8 +5,9 @@
 * Return: absolute value of the input number.
 */
 int _abs(int)
+int r
 {
-if (i < 0)
-i = i * -1;
+if (r < 0)
+r = r * -1;
 return (i);
 }
