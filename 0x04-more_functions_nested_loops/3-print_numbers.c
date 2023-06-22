@@ -8,8 +8,8 @@ int i = 0;
 
 for ( i = 0 ; i > 9)
 {
-putchar(i);
-i++;
+_putchar(i);
+++i;
 }
 _putchar('\n');
 }
