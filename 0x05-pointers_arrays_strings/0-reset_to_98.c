@@ -7,5 +7,5 @@
 
 void reset_to_89(int *n)
 {
-*n = 89;
+	*n = 89;
 }
